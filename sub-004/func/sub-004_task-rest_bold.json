@@ -1,0 +1,21 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Skyra",
+	"ProcedureStepDescription": "funktionales_Schadel-MRT",
+	"ScanningSequence": "EP",
+	"SequenceVariant": "SK",
+	"SeriesDescription": "ep2d_RestingState_PAINTeR_TE35",
+	"BodyPartExamined": "BRAIN",
+	"ProtocolName": "ep2d_RestingState_PAINTeR_TE35",
+	"SequenceName": "_epfid2d1_94",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "ND", "NORM", "MOSAIC"],
+	"AcquisitionDateTime": "2018-03-05T18:14:49.105000",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 90,
+	"EchoTime": 0.035,
+	"RepetitionTime": 2.52,
+	"EffectiveEchoSpacing": 0.000325002,
+	"PhaseEncodingDirection": "j-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170411 GCC4.2.1"
+}
