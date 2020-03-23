@@ -13,7 +13,9 @@
     "Acknowledgements": ". Spisak et al., Pain-free resting-state functional brain connectivity predicts individual sensitivity, accepted in Nature Communications, 2019.",
     "HowToAcknowledge": "",
     "Funding": [],
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://spisakt.github.io/RPN-signature/"
+    ],
     "DatasetDOI": "10.18112/openneuro.ds002609.v1.0.1",
     "BIDSVersion": "1.1.1",
     "ReferensesAndLinks": ""
