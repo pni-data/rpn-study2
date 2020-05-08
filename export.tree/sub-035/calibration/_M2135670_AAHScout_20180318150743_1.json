@@ -1,0 +1,20 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "Skyra",
+	"ProcedureStepDescription": "funktionales_Schadel-MRT",
+	"ScanningSequence": "GR",
+	"SequenceVariant": "SP",
+	"SeriesDescription": "AAHScout",
+	"BodyPartExamined": "BRAIN",
+	"ProtocolName": "AAHScout",
+	"SequenceName": "_fl3d1_ns",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "DIS2D"],
+	"AcquisitionDateTime": "2018-03-18T15:25:56.987500",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 8,
+	"EchoTime": 0.00137,
+	"RepetitionTime": 0.00315,
+	"PhaseEncodingDirection": "i-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170411 GCC4.2.1"
+}
